@@ -11,6 +11,6 @@ An intermediate code generator including lexer oand parser has been made using C
 
 
 ### Team Members
- - Udgam Aggarwal (RA1911028010024)
- - Dhruv Sikka (RA1911028010025)
- - Daksh Jodha (RA1911028010051)
+ - Karan Bengnai (RA1911032010049)
+ - Sulaksh Sharma (RA1911032010048)
+
